@@ -1,0 +1,24 @@
+{
+    "name": "change-detection-in-frameworks",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "js": "http-server js -p 10000",
+        "react": "http-server react -p 10001",
+        "angular": "http-server angular -p 10002",
+        "playground": "http-server playground -p 10003"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/maximusk/change-detection-in-frameworks.git"
+    },
+    "keywords": [],
+    "bugs": {
+        "url": "https://github.com/maximusk/change-detection-in-frameworks/issues"
+    },
+    "homepage": "https://github.com/maximusk/change-detection-in-frameworks#readme",
+    "description": ""
+}
