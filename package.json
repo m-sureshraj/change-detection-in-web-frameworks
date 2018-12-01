@@ -20,5 +20,8 @@
         "url": "https://github.com/maximusk/change-detection-in-frameworks/issues"
     },
     "homepage": "https://github.com/maximusk/change-detection-in-frameworks#readme",
-    "description": ""
+    "description": "",
+    "devDependencies": {
+        "http-server": "^0.11.1"
+    }
 }
